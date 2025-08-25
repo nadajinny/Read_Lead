@@ -84,3 +84,8 @@ __pycache__/
 .vscode/
 *.log
 .DS_Store
+
+# Python virtual environments
+venv/
+backend/venv/
+.venv/ㄴ
